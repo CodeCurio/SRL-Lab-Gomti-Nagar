@@ -1593,6 +1593,10 @@ body {
     }
 }
 /* Adjusted styles for headings in service pages */
+.test{
+    padding: 4rem;
+    
+}
 .our-services h1 {
     font-size: 2.5rem; /* Adjust if necessary */
     color: #000; /* Main website heading color */
