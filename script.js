@@ -10,14 +10,14 @@ document.addEventListener('DOMContentLoaded', function() {
         <button class="close-nav">&times;</button>
         <nav class="fullscreen-nav-content">
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="#services">Services</a></li>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../about.html">About Us</a></li>
+                <li><a href="../services">Services</a></li>
                 <li><a href="#packages">Health Packages</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="../contact">Contact</a></li>
             </ul>
             <div class="fullscreen-nav-contact">
-                <p><i class="fas fa-phone"></i> +91 123 456 7890</p>
+                <p><i class="fas fa-phone"></i> +91 9115911504</p>
                 <p><i class="fas fa-envelope"></i> info@srldiagnostics.com</p>
                 <div class="fullscreen-social-icons">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>

@@ -566,6 +566,7 @@ body {
     .nav-links.mobile-menu-active {
         display: block;
         max-height: 500px;
+        transition: max-height 0.3s ease-in-out;
     }
 
     .nav-links ul {
@@ -1531,6 +1532,7 @@ body {
     .nav-links.mobile-menu-active {
         display: block;
         max-height: 500px;
+        transition: max-height 0.3s ease-in-out;
     }
 
     .nav-links ul {
